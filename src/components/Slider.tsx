@@ -6,7 +6,7 @@ const data = [
     {
       id: 1,
       title: "always fresh & always crispy & always hot",
-      image: "/slide1.png",
+      image: "/slide4.jpg",
     },
     {
       id: 2,
@@ -15,8 +15,13 @@ const data = [
     },
     {
       id: 3,
-      title: "the best pizza to share with your family",
-      image: "/slide3.jpg",
+      title: "the best pizza to share with your friends",
+      image: "/slide4.jpg",
+    },
+    {
+      id: 4,
+      title: "Children's highest rated pizza place",
+      image: "/slide5.jpeg",
     },
   ];
 
