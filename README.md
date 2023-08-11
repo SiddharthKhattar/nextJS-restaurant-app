@@ -2,6 +2,10 @@ This repository contains the code for a front end website with a focus on UI/UX 
 
 
 ![Website Preview One](Assets/1First.gif) 
+![Website Preview M1](Assets/Mobile1.png) 
+![Website Preview M2](Assets/Mobile2.png) 
+![Website Preview M3](Assets/Mobile3.png) 
+![Website Preview M4](Assets/Mobile4.png) 
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
