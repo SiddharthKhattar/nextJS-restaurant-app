@@ -1,3 +1,9 @@
+This repository contains the code for a front end website with a focus on UI/UX design and aesthetics. The website presents users with a mockup to an Italian Pizza Website and contains multiple webpages such as a cart page, orders page, login page along with others. It also has extensive CSS applied to it to create a visually pleasing aesthetic in fun and interesting ways. You can view the website by downloading the files on your PC and running it on your localhost. It is made with a mobile-first approach on design with proper scaling across a tablet screen and desktop.
+
+
+![Website Preview One](Assets/1First.gif) 
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
